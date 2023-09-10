@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 76 65" style="enable-background:new 0 0 76 65;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#11225C;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#11225C;}
+</style>
+<title>Group 5</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="SP" transform="translate(-15.000000, -15.000000)">
+		<g id="Group-5" transform="translate(15.000000, 15.000000)">
+			<path id="Fill-1" class="st0" d="M55.6,45.6c-0.8,0.8-1.9,1.1-3.1,1.1c-2.4,0-4.5-1.8-6.3-5.3L40,45.3c1.4,3,3.2,5.2,5.2,6.6
+				c2,1.4,4.4,2.1,7.1,2.1c3.5,0,6.3-1.1,8.5-3.2c2.2-2.1,3.2-4.8,3.2-8.1c0-1.7-0.3-3.2-0.9-4.7c-0.6-1.4-1.7-2.9-3.1-4.5
+				c-0.6-0.6-2.3-2.2-5-4.6c-3-2.6-4.7-4.3-5.3-5.1c-0.4-0.6-0.6-1.2-0.6-1.9c0-0.7,0.3-1.3,0.9-1.8c0.6-0.5,1.4-0.8,2.3-0.8
+				c2,0,3.9,1.4,5.8,4.1l5.4-5c-2-2.4-3.9-4.1-5.6-5.1C56,12.5,54.2,12,52.3,12c-3,0-5.5,1-7.5,3c-2,2-3,4.4-3,7.1
+				c0,1.9,0.6,3.8,1.8,5.8c1.2,1.9,3.9,4.7,8.1,8.2c2.2,1.9,3.6,3.3,4.2,4.2c0.6,0.9,1,1.8,1,2.7C56.9,44,56.4,44.9,55.6,45.6"/>
+			<g id="Clip-4">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="76" height="65">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="76" height="65" id="mask-2_1_">
+				<g class="st1">
+					<polygon id="path-1_1_" class="st2" points="0,65 76,65 76,0 0,0 					"/>
+				</g>
+			</mask>
+			<path id="Fill-3" class="st3" d="M34.3,58.1H69V6.9H34.3V58.1z M27,27.1l-16.4-11v11.1H5.4V5.6c0-0.2,0.3-0.2,0.4-0.1l16.4,11.3
+				V5.4h5.1v21.7C27.2,27.1,27.1,27.1,27,27.1z M32.9,0H0v32.5h27.3V65H76V0H32.9z"/>
+		</g>
+	</g>
+</g>
+</svg>
